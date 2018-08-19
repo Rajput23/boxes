@@ -1,2 +1,0 @@
-# boxes
-boxes project
